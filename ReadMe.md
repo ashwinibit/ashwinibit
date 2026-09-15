@@ -1,32 +1,66 @@
-# Hi, I'm Ashwini Kumar Mishra 👋
+Hi, I'm Ashwini Kumar Mishra 👋
 
-**Identity & Access Management | Identity Governance & Administration (IGA) | Automation**
+IAM Engineer | Database Sleuth | Automating Everything That Needs Doing Twice
 
-I am an IAM and systems-focused engineer specializing in Identity Governance, backend database analysis, and workflow automation. My core focus is bridging the gap between high-level access governance policies and low-level system behaviors—investigating identity pipelines down to the database, API, and process engine tiers to design resilient, auditable identity architectures.
+class Engineer:
+    def __init__(self):
+        self.name = "Ashwini Kumar Mishra"
+        self.role = "Identity & Access Management / IGA Specialist"
+        self.primary_weapon = "SQL Queries That Make DBAs Sweat"
+        self.superpower = "Finding why that one Leaver still has domain admin access"
 
----
 
-### 🛠️ Core Competencies & Tech Stack
+I spend my time at the messy intersection of Identity Governance, relational databases, REST APIs, and automation. If an identity sync fails, a job hangs in the process queue, or an account mysteriously disappears, I don’t just restart the service—I dig into the database tables to figure out which exact constraint screamed for help.
 
-| Domain | Technologies & Focus Areas |
-| :--- | :--- |
-| **IAM & Governance** | One Identity Manager (1IM), JML Lifecycles, Attestation/Access Reviews, Entitlements, SoD |
-| **Database & Analytics** | Advanced SQL (Joins, Window Functions, Indexing), Data Reconciliation, Schema Auditing |
-| **Automation & Scripting** | Python (ETL Pipelines, Validation Frameworks, Pandas), Bash, Scheduled Tasks |
-| **APIs & Security** | REST APIs, Postman, AuthN/AuthZ Flows (OAuth2, OIDC), AppSec, Input Validation |
-| **Architecture** | Relational Data Modeling, State Management, Event-Driven Job Queues, Audit Logging |
+🧰 The Arsenal
 
----
+Domain
 
-### 🔍 Engineering Focus & Practical Applications
+Weapons & Concepts
 
-* **Identity Governance & Administration (IGA):** End-to-end management of Joiner/Mover/Leaver (JML) pipelines, custom attestation policies, role-based access controls (RBAC), and compliance-ready access certifications.
-* **Under-the-Hood System Investigation:** Deep database diagnostics in One Identity Manager (`Person`, `ADSAccount`, `AttestationCase`, and job queues). Tracing runtime behaviors through change logs, history tracking, and transactional execution rather than relying solely on the management UI.
-* **Automated Data Validation & Pipelines:** Scalable Python tools designed for high-volume data sanitization, schema/type enforcement, anomaly detection, and automated ETL reconciliation.
-* **Security & Assurance:** API payload evaluation, authorization bypass testing, and SQL injection prevention to maintain zero-trust integrity across identity integrations.
+IAM & Governance
 
----
+One Identity Manager (1IM), JML Lifecycles, Attestations, SoD, Entitlement Cleanups
 
-### ⚙️ Root-Cause Investigation Framework
+Databases
 
-When triaging state drift, provisioning failure, or identity inconsistencies, I use a bottom-up verification loop:
+SQL (Window Functions, Aggregations, Deep Dives into Person & ADSAccount), Schema Audits
+
+Automation & Code
+
+Python (Pandas, ETL pipelines, "don't make me do this manually" scripts), Bash
+
+APIs & AppSec
+
+REST APIs, Postman, AuthN/AuthZ Flows, Input Sanitization, SQLi Prevention
+
+🔎 What I Actually Do
+
+Identity Governance & Administration (IGA): Keeping Joiner/Mover/Leaver (JML) workflows honest. Making sure access requests don't sit in approval limbo forever and audit reports actually pass on the first try.
+
+Database Forensics: One Identity Manager UI tells you what failed; the database tells you who to blame. I track down orphaned objects, mismatched foreign keys, and stuck job queues at the data layer.
+
+ETL & Data Hygiene: Building Python workflows to ingest, validate, and normalize messy real-world datasets before they corrupt downstream production systems.
+
+API & App Security: Testing authorization boundaries so the wrong token doesn't open the wrong door.
+
+⚙️ How I Triage Enterprise Chaos
+
+[ Problem Reported: "The UI looks broken" ]
+                     │
+                     ▼
+       [ Check Job Engine & Queue ] ── (Is it just backlogged?)
+                     │ No
+                     ▼
+        [ Interrogate the Database ] ── (Checking constraints & foreign keys)
+                     │ 
+                     ▼
+          [ History / Audit Logs ] ── (Who changed this at 4:58 PM on a Friday?)
+                     │
+                     ▼
+       [ Root Cause Found & Fixed via Python / SQL Automation ]
+
+
+📊 GitHub Activity
+
+☕ Let's Connect
