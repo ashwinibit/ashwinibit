@@ -1,112 +1,214 @@
-# <p align="center">Hi there, I'm Ashwini Kumar Mishra 👋</p>
+# 👋 Hi, I'm Ashwini Kumar Mishra
 
-<p align="center">
-  <b>Identity & Access Management (IAM) | IGA Specialist | Database Sleuth | Automation Craftsman</b>
-</p>
+### `IAM Developer` • `One Identity Specialist` • `Automation Engineer`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mishra-ashwini/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ashwinikumarrbhilai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+> Building secure, scalable, and automated identity solutions --- with a
+> focus on **Identity & Access Management, One Identity, APIs, and
+> automation**.
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashwinibit&icon=5&color=0" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-ashwini/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashwinikumarrbhilai@gmail.com)
 
----
+------------------------------------------------------------------------
 
-### ⚡ Quick Byte
+## 👨‍💻 About Me
 
-```python
-class IAMEngineer:
-    def __init__(self):
-        self.name = "Ashwini Kumar Mishra"
-        self.specialties = ["Identity Governance", "Database Forensics", "ETL & Scripting"]
-        self.primary_weapon = "SQL Queries That Make DBAs Sweat"
-        self.current_mission = "Hunting down why that one Leaver still has Domain Admin access"
+I'm a security-focused **IAM Developer / One Identity Specialist** with
+**4+ years of professional experience** designing, administering,
+automating, and troubleshooting Identity & Access Management solutions.
 
-    def triage_incident(self, bug_report):
-        # I don't just restart the service; I interrogate the database.
-        return "Root cause found at row 42, locked in a job queue, resolved via Python."
+My work sits at the intersection of **security, identity, automation,
+APIs, databases, and enterprise application integration**.
+
+-   🔐 IAM solutions, access control & identity lifecycle management
+-   ⚙️ One Identity development, administration & customization
+-   🔌 Custom connectors and application onboarding
+-   🐍 Python automation and data-processing workflows
+-   🗄️ SQL, database-driven troubleshooting & reporting
+-   🔑 Authentication & authorization --- SAML, OAuth 2.0, JWT, MSAL
+-   ☁️ Cloud fundamentals and infrastructure automation with Terraform
+-   🛠️ Root-cause analysis, production support, bug fixing &
+    enhancements
+
+------------------------------------------------------------------------
+
+## 🧰 Technical Stack
+
+### Identity & Security
+
+`One Identity` `IAM` `AuthN/AuthZ` `SAML` `OAuth 2.0` `JWT` `MSAL`
+`Active Directory`
+
+### Development & Automation
+
+`Python` `C#` `Java` `PowerShell` `REST APIs` `PHP`
+
+### Data & Infrastructure
+
+`SQL` `MySQL` `Terraform` `Unix Administration` `Excel`
+
+### Tools
+
+`Jira` `Git` `API Testing` `Enterprise Connectors`
+
+------------------------------------------------------------------------
+
+## 🏢 Professional Experience
+
+### One Identity Consultant --- IC-Consult
+
+**Jan 2025 -- Present**
+
+-   Develop and enhance **One Identity** solutions based on project
+    requirements.
+-   Build **custom connectors, scripts, and PowerShell-based
+    integrations** for application onboarding.
+-   Work with out-of-the-box connectors such as **Active Directory and
+    SAP**, adapting them to business requirements.
+-   Troubleshoot provisioning and integration issues through structured
+    **problem resolution and root-cause analysis**.
+
+### One Identity Administrator & IAM Specialist --- Tata Consultancy Services
+
+**Jan 2021 -- Jan 2025**
+
+-   Designed and maintained secure IAM and access-control solutions.
+-   Managed **user provisioning, access requests, and identity lifecycle
+    processes** using One Identity.
+-   Developed Python automation to improve data-processing workflows and
+    operational efficiency.
+-   Supported authentication using **Active Directory**.
+-   Administered and configured One Identity products while maintaining
+    system availability and integrity.
+-   Contributed to process automation that improved team efficiency by
+    approximately **20%**.
+
+### Junior Web Developer --- Software Technology Parks of India
+
+**Jan 2020 -- Jul 2020**
+
+-   Developed a web-based incubation management system using **PHP and
+    SQL**.
+-   Built interfaces and data-analysis functionality to improve workflow
+    and information management.
+
+------------------------------------------------------------------------
+
+## 🚀 What I Like Building
+
+I enjoy working on practical engineering problems where **security +
+automation + integration** come together.
+
+Some areas I actively work with:
+
+``` text
+Identity
+   │
+   ├── User Lifecycle
+   ├── Provisioning & Deprovisioning
+   ├── Access Control
+   ├── Authentication / Authorization
+   │
+   └── One Identity
+          │
+          ├── Connectors
+          ├── Workflows
+          ├── Attestation
+          ├── Job Queue / Process Monitoring
+          └── Application Onboarding
 ```
 
----
+I also build automation and data-oriented tools using **Python, SQL,
+APIs, and web technologies**.
 
-### 🧑‍💻 Who I Am
+------------------------------------------------------------------------
 
-I operate at the messy, high-stakes intersection of **Identity Governance, complex databases, REST APIs, and automation**.
+## 📌 Featured Areas
 
-* 🔐 **Deep IAM/IGA Specialization:** Extensive hands-on focus with **One Identity Manager (1IM)**, covering Joiner/Mover/Leaver (JML) lifecycles, account attestations, and approval workflows down to the underlying `Person`, `ADSAccount`, and job-processing engines.
-* 🗄️ **Database-First Troubleshooter:** UI dashboards only show *what* failed; relational schemas reveal *why*. I track down orphaned records, constraint conflicts, and stuck sync queues at the database layer.
-* 🐍 **Automation & Reliability:** I build Python data validation pipelines, ETL workflows, and diagnostic tools to eliminate repetitive manual toil and keep enterprise identity syncs pristine.
+  -----------------------------------------------------------------------
+  Area                                Focus
+  ----------------------------------- -----------------------------------
+  🔐 **IAM**                          Identity lifecycle, provisioning,
+                                      access control
 
----
+  🧩 **One Identity**                 Connectors, workflows,
+                                      configuration & troubleshooting
 
-### 💻 Tech Stack & Toolkit
+  🔌 **API Integration**              REST APIs, authentication,
+                                      application onboarding
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+  🐍 **Automation**                   Python, PowerShell, process
+                                      automation
 
----
+  🗄️ **SQL & Data**                   Queries, validation, reporting &
+                                      troubleshooting
 
-### ⚙️ How I Triage Enterprise Chaos
+  🛡️ **Security**                     AuthN/AuthZ, SAML, OAuth 2.0, JWT
 
-```text
-[ Problem: "Identity Sync is Broken!" ]
-                   │
-                   ▼
-      [ Inspect Job Queue & Logs ] ────► (Is the dispatcher dead, or is it stuck?)
-                   │
-                   ▼
-       [ Interrogate the Database ] ────► (Check foreign keys, orphaned rows, deadlocks)
-                   │
-                   ▼
-         [ Audit & History Trace ] ────► (Who modified the attestation policy at 4:58 PM?)
-                   │
-                   ▼
-       [ Root Cause Proven & Fixed via Automation ]
+  ☁️ **Infrastructure**               Terraform & cloud fundamentals
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🎓 Education & Training
+
+**Bachelor's Degree in Information Technology**\
+Bhilai Institute of Technology, Bhilai --- **2020**
+
+Additional training includes:
+
+-   Python
+-   Java
+-   Terraform
+-   MySQL
+-   Unix Administration
+-   Microsoft .NET Foundation
+-   Generative AI Foundation
+-   Business Communication
+
+------------------------------------------------------------------------
+
+## 📊 Professional Highlights
+
+-   **4+ years** of IAM / One Identity experience
+-   **20%** reported improvement in IAM/team efficiency through
+    automation
+-   **50--60%** reported reduction in security risks through
+    automation-focused improvements
+-   Experience across **IAM administration, development, integrations,
+    automation, and troubleshooting**
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Exploring
+
+-   Advanced **Identity & Access Management**
+-   One Identity customization and enterprise integrations
+-   API-driven application onboarding
+-   Python automation for IAM operations
+-   Cloud IAM and infrastructure automation
+-   Generative AI for enterprise automation and engineering workflows
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on projects involving:
+
+**IAM · Identity Security · One Identity · Automation · APIs · Python ·
+SQL · Cloud · Enterprise Integrations**
+
+📧 **Email:** ashwinikumarrbhilai@gmail.com\
+💼 **LinkedIn:**
+[linkedin.com/in/mishra-ashwini](https://www.linkedin.com/in/mishra-ashwini/)
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
 ```
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinibit&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="Ashwini's Trophies" />
+`<sub>`{=html}Building secure systems. Automating repetitive work.
+Solving identity problems.`</sub>`{=html}
+```{=html}
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinibit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Ashwini's Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinibit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashwinibit&theme=dark&hide_border=false" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ashwinibit&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
-<p align="center">
-  <i>"Always verify at the database level."</i>
-</p>
+```
