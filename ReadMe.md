@@ -204,11 +204,3 @@ SQL · Cloud · Enterprise Integrations**
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}Building secure systems. Automating repetitive work.
-Solving identity problems.`</sub>`{=html}
-```{=html}
-</p>
-```
