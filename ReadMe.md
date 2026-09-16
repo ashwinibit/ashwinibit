@@ -56,6 +56,34 @@ Engineering · Enterprise Integrations**
 I like building projects that solve **real operational problems**,
 automate manual work, and make technical data easier to understand.
 
+
+# 🔐 IAM & One Identity Engineering
+
+My primary professional specialization is **Identity & Access
+Management**, particularly **One Identity**.
+
+### Areas I work with
+
+-   Identity lifecycle management
+-   User provisioning & deprovisioning
+-   Access requests
+-   Account and group management
+-   Application onboarding
+-   Custom connectors
+-   REST API integrations
+-   Active Directory integrations
+-   SAP integrations
+-   Approval workflows
+-   Attestation
+-   Job Queue / process monitoring
+-   Root-cause analysis
+-   Production troubleshooting
+
+I particularly enjoy solving problems where **enterprise systems, APIs,
+databases, workflows and security controls** have to work together.
+
+------------------------------------------------------------------------
+
 ## 🤖 Automation & Engineering Tools
 
 A major part of my work involves creating automation around enterprise
@@ -144,32 +172,6 @@ Raw Water Quality Data
 This project combines **ETL, data validation, automation, visualization,
 and environmental data analysis** into a single workflow.
 
-------------------------------------------------------------------------
-
-# 🔐 IAM & One Identity Engineering
-
-My primary professional specialization is **Identity & Access
-Management**, particularly **One Identity**.
-
-### Areas I work with
-
--   Identity lifecycle management
--   User provisioning & deprovisioning
--   Access requests
--   Account and group management
--   Application onboarding
--   Custom connectors
--   REST API integrations
--   Active Directory integrations
--   SAP integrations
--   Approval workflows
--   Attestation
--   Job Queue / process monitoring
--   Root-cause analysis
--   Production troubleshooting
-
-I particularly enjoy solving problems where **enterprise systems, APIs,
-databases, workflows and security controls** have to work together.
 
 ------------------------------------------------------------------------
 
